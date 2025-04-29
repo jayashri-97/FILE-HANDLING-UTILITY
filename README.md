@@ -12,3 +12,7 @@ DURATION: 4 WEEKS
 MENTOR:NEELA SANTHOSH
 
 DESCRIPTION OF TASK: The FileOPerations program in java demonstrates essential file handling functionalities including file creation,writing,reading,modifying and deletion.These operations are performed using java's build in classes such as File,FileWriter,FileReader,BufferedReader and BufferedWriter.File handling is crucial for real world applications where presistent storage of data is required.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/dc35c5bc-ba6b-47da-9d19-f8af5beff738)
